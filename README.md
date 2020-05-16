@@ -1,2 +1,2 @@
 # website
-Este proyecto se puede ver en: https://cuentapruebagdg.github.io/website/
+Este proyecto se puede ver en [este link](https://cuentapruebagdg.github.io/website/)
